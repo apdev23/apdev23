@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @apdev23
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning React Js React Native 
-- 💞️ I’m looking to collaborate on React Native React Js
-- 📫 How to reach me atank@gmail.com
-- 😄 Pronouns: AP Dev
+- 🌱 I’m React Native Developer 
+- 💞️ I’m looking to collaborate on React Native 
+- 📫 How to reach me alpeshtank26@gmail.com
+- 😄 Pronouns: Alpesh
 - ⚡ Fun fact: 
 
 <!---
